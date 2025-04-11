@@ -1,8 +1,6 @@
-
-// app/layout.tsx
 export const metadata = {
   title: 'Patient Calendar',
-  description: 'Patient management calendar',
+  description: 'Calendar for managing patient tags',
 };
 
 export default function RootLayout({
@@ -16,3 +14,4 @@ export default function RootLayout({
     </html>
   );
 }
+
